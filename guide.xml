@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Example">
     <display-name lang="en">Example</display-name>
@@ -8,11 +8,11 @@
     <icon src="http://www.lineup.tv.br/canais/cidadeverde-mt.gif|http://www.lineup.tv.br/canais/band.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <programme start="20190220000000 +0000" stop="20190220235900 +0000" channel="Example">
+  <programme start="20190220000000 +0000" stop="20190220235900 +0000" channel="TV Gazeta AL>
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
   </programme>
-  <programme start="20190221000000 +0000" stop="20190221235900 +0000" channel="Example">
+  <programme start="20190221000000 +0000" stop="20190221235900 +0000" channel="TV Gazeta AL">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
   </programme>
