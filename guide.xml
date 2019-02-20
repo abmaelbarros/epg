@@ -4,7 +4,7 @@
     <display-name lang="pt">Tv Gazeta AL</display-name>
     <url>http://www.sic.sapto.pt</url>
   </channel>
-  <programme start="2019022000000 +0000" stop="20190220064700 +0000" channel="Tvgazetaal.br">
+  <programme start="20190220010000 +0000" stop="20190220064700 +0000" channel="Tvgazetaal.br">
     <title lang="pt">FAZ SENTIDO</title>
     <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
     <rating system="PT">
