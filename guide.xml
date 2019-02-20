@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Tvgazetaal.br">
-    <display-name lang="pt">Tvgazetaal.br</display-name>
+    <display-name lang="pt">Tv Gazeta AL</display-name>
     <url>http://www.sic.sapto.pt</url>
   </channel>
-  <programme start="20190220055000 +0000" stop="20190220064700 +0000" channel="Tvgazetaal.br">
+  <programme start="20190220095000 +0000" stop="20190220064700 +0000" channel="Tvgazetaal.br">
     <title lang="pt">FAZ SENTIDO</title>
     <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
     <rating system="PT">
