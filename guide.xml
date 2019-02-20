@@ -1,35 +1,782 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
+  <channel id="SIC Mulher">
+    <display-name lang="pt">Tvgazetaal.br</display-name>
+    <url>http://www.sic.sapto.pt</url>
   </channel>
-  <channel id="A">
-    <display-name lang="pt">TV Gazeta AL</display-name>
-    <icon src="http://www.lineup.tv.br/canais/cidadeverde-mt.gif|http://www.lineup.tv.br/canais/band.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <programme start="20190220000000 +0000" stop="20190220235900 +0000" channel="TV Gazeta AL>
-    <title lang="pt">dummy program - Full Day Show</title>
-    <desc lang="pt">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <programme start="20190220055000 +0000" stop="20190220064700 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
   </programme>
-  <programme start="20190221000000 +0000" stop="20190221235900 +0000" channel="TV Gazeta AL">
-    <title lang="pt">dummy program - Full Day Show</title>
-    <desc lang="pt">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <programme start="20190220064700 +0000" stop="20190220074400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
   </programme>
-  <programme start="20190222000000 +0000" stop="20190222235900 +0000" channel="TV Gazeta AL">
-    <title lang="pt">dummy program - Full Day Show</title>
-    <desc lang="pt">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <programme start="20190220074400 +0000" stop="20190220075300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VIDA EXTRA</title>
+    <desc lang="pt">VIDA EXTRA 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
   </programme>
-  <programme start="20190223000000 +0000" stop="20190223235900 +0000" channel="TV Gazeta AL">
-    <title lang="pt">dummy program - Full Day Show</title>
-    <desc lang="pt">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <programme start="20190220075300 +0000" stop="20190220085100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
   </programme>
-  <programme start="20190224000000 +0000" stop="20190224235900 +0000" channel="TV Gazeta AL">
-    <title lang="pt">dummy program - Full Day Show</title>
-    <desc lang="pt">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <programme start="20190220085100 +0000" stop="20190220093300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">DR. PHILL 14 (Y16) - ADENDA 2019</title>
+    <desc lang="pt">DR. PHILL 14 (Y16) - ADENDA 2019  1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
   </programme>
-  <programme start="20190225000000 +0000" stop="20190225235900 +0000" channel="TV Gazeta AL">
-    <title lang="pt">dummy program - Full Day Show</title>
-    <desc lang="pt">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <programme start="20190220093300 +0000" stop="20190220102200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">DR. SAÚDE</title>
+    <desc lang="pt">DR. SAÚDE 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220102200 +0000" stop="20190220110900 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VET ON THE HILL - SÉRIE 2</title>
+    <desc lang="pt">VET ON THE HILL - SÉRIE 2 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220110900 +0000" stop="20190220115400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <desc lang="pt">FIXER UPPER - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220115400 +0000" stop="20190220123900 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220123900 +0000" stop="20190220132400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <desc lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220132400 +0000" stop="20190220140500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220140500 +0000" stop="20190220160300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220160300 +0000" stop="20190220165300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">HOUSE RULES</title>
+    <desc lang="pt">HOUSE RULES 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220165300 +0000" stop="20190220173800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <desc lang="pt">X FACTOR (UK) - SÉRIE 15 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220173800 +0000" stop="20190220182800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220182800 +0000" stop="20190220191800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220191800 +0000" stop="20190220200300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <desc lang="pt">FIXER UPPER - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220200300 +0000" stop="20190220205100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220205100 +0000" stop="20190220214400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <desc lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220214400 +0000" stop="20190220223100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <desc lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220223100 +0000" stop="20190220232200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <desc lang="pt">MASTERCHEF BRAZIL - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190220232200 +0000" stop="20190221001000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <desc lang="pt">MASTERCHEF BRAZIL - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221001000 +0000" stop="20190221005200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <desc lang="pt">X FACTOR (UK) - SÉRIE 15 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221005200 +0000" stop="20190221013900 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <desc lang="pt">X FACTOR (UK) - SÉRIE 15 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221013900 +0000" stop="20190221022400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221022400 +0000" stop="20190221025400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <desc lang="pt">UNDRESSED ITALY - SÉRIE 2 1/1(n)</desc>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190221025400 +0000" stop="20190221032200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <desc lang="pt">UNDRESSED ITALY - SÉRIE 2 1/1(n)</desc>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190221032200 +0000" stop="20190221040500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <desc lang="pt">FIXER UPPER - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221040500 +0000" stop="20190221050100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221050100 +0000" stop="20190221055800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221055800 +0000" stop="20190221065300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221065300 +0000" stop="20190221075100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221075100 +0000" stop="20190221084900 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221084900 +0000" stop="20190221093000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">DR. PHILL 14 (Y16) - ADENDA 2019</title>
+    <desc lang="pt">DR. PHILL 14 (Y16) - ADENDA 2019  1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221093000 +0000" stop="20190221101800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">DR. SAÚDE</title>
+    <desc lang="pt">DR. SAÚDE 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221101800 +0000" stop="20190221110400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VET ON THE HILL - SÉRIE 2</title>
+    <desc lang="pt">VET ON THE HILL - SÉRIE 2 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221110400 +0000" stop="20190221114900 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <desc lang="pt">FIXER UPPER - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221114900 +0000" stop="20190221123700 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221123700 +0000" stop="20190221132000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <desc lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221132000 +0000" stop="20190221140600 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221140600 +0000" stop="20190221160300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221160300 +0000" stop="20190221163900 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">HOUSE RULES</title>
+    <desc lang="pt">HOUSE RULES 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221163900 +0000" stop="20190221172200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <desc lang="pt">X FACTOR (UK) - SÉRIE 15 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221172200 +0000" stop="20190221180600 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221180600 +0000" stop="20190221182800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221182800 +0000" stop="20190221191800 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221191800 +0000" stop="20190221200300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <desc lang="pt">FIXER UPPER - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221200300 +0000" stop="20190221205000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221205000 +0000" stop="20190221214100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <desc lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221214100 +0000" stop="20190221223100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <desc lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221223100 +0000" stop="20190221232100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <desc lang="pt">MASTERCHEF BRAZIL - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190221232100 +0000" stop="20190222001000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <desc lang="pt">MASTERCHEF BRAZIL - SÉRIE 5 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222001000 +0000" stop="20190222005400 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <desc lang="pt">X FACTOR (UK) - SÉRIE 15 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222005400 +0000" stop="20190222014100 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <desc lang="pt">X FACTOR (UK) - SÉRIE 15 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222014100 +0000" stop="20190222022300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <desc lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222022300 +0000" stop="20190222025300 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <desc lang="pt">UNDRESSED ITALY - SÉRIE 2 1/1(n)</desc>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190222025300 +0000" stop="20190222032200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <desc lang="pt">UNDRESSED ITALY - SÉRIE 2 1/1(n)</desc>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190222032200 +0000" stop="20190222040600 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <desc lang="pt">FIXER UPPER - SÉRIE 3 1/1(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222040600 +0000" stop="20190222050200 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222050200 +0000" stop="20190222060000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3 1/2(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222060000 +0000" stop="20190222070000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222070000 +0000" stop="20190222080000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222080000 +0000" stop="20190222084500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222084500 +0000" stop="20190222093000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">DR. PHILL 14 (Y16) - ADENDA 2019</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222093000 +0000" stop="20190222101500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">DR. SAÚDE</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222101500 +0000" stop="20190222110000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VET ON THE HILL - SÉRIE 2</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222110000 +0000" stop="20190222114500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222114500 +0000" stop="20190222124500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222124500 +0000" stop="20190222133000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222133000 +0000" stop="20190222140000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222140000 +0000" stop="20190222160000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222160000 +0000" stop="20190222163000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222163000 +0000" stop="20190222171500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222171500 +0000" stop="20190222180000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222180000 +0000" stop="20190222181500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222181500 +0000" stop="20190222190000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222190000 +0000" stop="20190222200000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222200000 +0000" stop="20190222204500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222204500 +0000" stop="20190222214500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222214500 +0000" stop="20190222223000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222223000 +0000" stop="20190222231500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190222231500 +0000" stop="20190223001500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223001500 +0000" stop="20190223011500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223011500 +0000" stop="20190223013000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190223013000 +0000" stop="20190223014500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190223014500 +0000" stop="20190223020000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">UNDRESSED ITALY - SÉRIE 2</title>
+    <rating system="PT">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190223020000 +0000" stop="20190223023000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FALA COM ELA</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223023000 +0000" stop="20190223031500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223031500 +0000" stop="20190223040000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223040000 +0000" stop="20190223050000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223050000 +0000" stop="20190223053500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223053500 +0000" stop="20190223054000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">BOA CAMA BOA MESA</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223054000 +0000" stop="20190223054500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VIDA EXTRA</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223054500 +0000" stop="20190223055000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">M DE MUSICA</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223055000 +0000" stop="20190223055500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">CINETENDINHA</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223055500 +0000" stop="20190223060000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MUNDO DE SOFIA - SÉRIE 4</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223060000 +0000" stop="20190223070000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FAZ SENTIDO</title>
+    <desc lang="pt">FAZ SENTIDO - SÉRIE 3(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223070000 +0000" stop="20190223080000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223080000 +0000" stop="20190223090000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">FIXER UPPER - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223090000 +0000" stop="20190223094500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VET ON THE HILL - SÉRIE 2</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223094500 +0000" stop="20190223103000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">VET ON THE HILL - SÉRIE 2</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223103000 +0000" stop="20190223111500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">HOUSE RULES</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223111500 +0000" stop="20190223120000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">HOUSE RULES</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223120000 +0000" stop="20190223130000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">BROTHER VS BROTHER - SÉRIE 5</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223130000 +0000" stop="20190223133000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223133000 +0000" stop="20190223141500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223141500 +0000" stop="20190223160000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223160000 +0000" stop="20190223164500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223164500 +0000" stop="20190223173000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">X FACTOR (UK) - SÉRIE 15</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223173000 +0000" stop="20190223181500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223181500 +0000" stop="20190223190000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MY KITCHEN RULES AUSTRALIA</title>
+    <desc lang="pt">MY KITCHEN RULES AUSTRALIA - SÉRIE 5(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223190000 +0000" stop="20190223194500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">GRANJERO BUSCA ESPOSA - SÉRIE 6</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223194500 +0000" stop="20190223203000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">BROTHER VS BROTHER - SÉRIE 5</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223203000 +0000" stop="20190223211500 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223211500 +0000" stop="20190223220000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">PROPERTY BROTHERS - BUYING AND SELLING - SÉRIE 3</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223220000 +0000" stop="20190223230000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20190223230000 +0000" stop="20190224000000 +0000" channel="Tvgazetaal.br">
+    <title lang="pt">MASTERCHEF BRAZIL - SÉRIE 5</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
   </programme>
 </tv>
